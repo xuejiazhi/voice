@@ -78,3 +78,5 @@ docker cp  <容器 ID 或名称>:/workspace/FunASR/runtime/html5 /funasr-runtime
 # 语音识别测试wav数据
 再给大家提供一个语音识别测试wav数据集（中文250条英文150条）
 - 链接:https://pan.baidu.com/s/1VZsJ8ooU9W9m4QNW4NLJ2g?pwd=rih9 提取码:rih9 复制这段内容后打开百度网盘手机App，操作更方便哦
+- ![image](https://github.com/user-attachments/assets/ff53c6ef-a5d6-45fc-a16b-03ffbae1f5e1)
+![image](https://github.com/user-attachments/assets/f71ba235-2ae5-457f-b7a3-1517e1bdb8d9)
